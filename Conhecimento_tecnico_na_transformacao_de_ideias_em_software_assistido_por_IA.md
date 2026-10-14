@@ -1,6 +1,6 @@
 # Conhecimento técnico na transformação de ideias em software assistido por IA
 
-**Autor: Fernando**
+**Autor: Fernando Dalzotto**
 
 ---
 
